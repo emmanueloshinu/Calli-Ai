@@ -39,7 +39,7 @@ Call AI is a powerful web application designed to help you build and manage your
 
 ## Video Demonstration
 Watch the demo video on Dailymotion:
-[![Watch the Video](https://dailymotion.com/thumbnail/video/YOUR_VIDEO_ID)](https://dai.ly/k15QSF2OWf4o0QCCSCy)
+[![Watch the Video](https://dailymotion.com/thumbnail/video/k15QSF2OWf4o0QCCSCy)](https://dai.ly/k15QSF2OWf4o0QCCSCy)
 
 
 
